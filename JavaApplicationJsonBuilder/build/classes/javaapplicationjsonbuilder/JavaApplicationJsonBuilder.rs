@@ -1,2 +1,0 @@
-javaapplicationjsonbuilder.JavaApplicationJsonBuilder
-javaapplicationjsonbuilder.Builder
